@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jms-lib/fscontext.jar"/>
+	<classpathentry kind="lib" path="jms-lib/gf-client.jar"/>
+	<classpathentry kind="lib" path="jms-lib/imqbroker.jar"/>
+	<classpathentry kind="lib" path="jms-lib/imqjmsbridge.jar"/>
+	<classpathentry kind="lib" path="jms-lib/imqjmsra.jar"/>
+	<classpathentry kind="lib" path="jms-lib/imqjmx.jar"/>
+	<classpathentry kind="lib" path="jms-lib/imqstomp.jar"/>
+	<classpathentry kind="lib" path="jms-lib/javaee.jar"/>
+	<classpathentry kind="lib" path="jms-lib/javax.jms-api.jar"/>
+	<classpathentry kind="lib" path="jms-lib/gson-2.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
